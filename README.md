@@ -4,3 +4,4 @@ local change
 remote change
 
 remote change 2
+local change 2
